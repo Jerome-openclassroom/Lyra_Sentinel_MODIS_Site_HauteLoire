@@ -32,12 +32,20 @@ These values reflect the site’s healthy vegetative activity and typical late s
 ## 📁 Repository Structure
 
 Lyra_Sentinel_MODIS_Site_HauteLoire/
+
 │
+
 ├── README.md # Project overview and instructions
+
 ├── data_and_results/ # All scripts, outputs and visual aids
+
 │ ├── NDVI_LST_HauteLoire.ipynb # Jupyter Notebook (full pipeline)
+
+
 │ ├── NDVI_LST_HauteLoire.md # Markdown version (easy reading)
+
 │ ├── NDVI_LST_map.jpg # Result map: NDVI square & LST disk
+
 │ └── NDVI_LST_HauteLoire.csv # (Optional) CSV export with computed values
 
    
