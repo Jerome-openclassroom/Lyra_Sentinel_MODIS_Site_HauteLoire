@@ -34,7 +34,7 @@ ndvi_clipped = ndvi.clip(ndvi_display_roi)
 mean_ndvi = ndvi.reduceRegion(
     reducer=ee.Reducer.mean(),
     geometry=ndvi_roi,
-    scale=10,
+    scale=100,
     maxPixels=1e9
 )
 
