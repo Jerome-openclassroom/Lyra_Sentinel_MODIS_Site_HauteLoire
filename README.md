@@ -41,7 +41,7 @@ Lyra_Sentinel_MODIS_Site_HauteLoire/
 │
 │    ├── NDVI_LST_HauteLoire.md # Markdown version (easy reading)
 │
-│    ├── NDVI_LST_map.jpg # Result map: NDVI square & LST disk
+│    ├── NDVI_LST_map.jpg # Result map: NDVI square & LST disk 
 
    
 ## Dependencies
