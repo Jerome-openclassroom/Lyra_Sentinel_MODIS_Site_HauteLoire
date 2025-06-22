@@ -24,7 +24,7 @@ Both metrics are computed for a precise point located in Haute-Loire, representi
 
 | Variable | Value |
 |----------|-------|
-| **Mean NDVI** | ~0.75 (2 decimal places) |
+| **Mean NDVI** | ~0.85 (2 decimal places) |
 | **Mean LST (°C)** | ~18.8 °C (1 decimal place) |
 
 These values reflect the site’s healthy vegetative activity and typical late spring surface temperatures in a mid-altitude French upland context.
