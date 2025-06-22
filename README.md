@@ -83,7 +83,7 @@ pip install earthengine-api geemap
 
 ## Map Preview
 
-![NDVI and LST buffers](data_and_results\NDVI_LST_map.jpg)
+![NDVI and LST buffers](data_and_results/NDVI_LST_map.jpg)
 
 ## Contact
 
