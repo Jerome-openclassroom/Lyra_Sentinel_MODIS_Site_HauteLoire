@@ -28,6 +28,7 @@ Both metrics are computed for a precise point located in Haute-Loire, representi
 | **Mean LST (°C)** | ~18.8 °C (1 decimal place) |
 
 These values reflect the site’s healthy vegetative activity and typical late spring surface temperatures in a mid-altitude French upland context.
+The NDVI (~0.85) corresponds to the first clear-sky day within the 15 May – 15 June period, ensuring high atmospheric transparency and optimal leaf reflectance, representative of maximum photosynthetic activity for this bocage site.
 
 ## 📁 Repository Structure
 
